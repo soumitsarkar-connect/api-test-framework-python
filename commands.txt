@@ -1,0 +1,6 @@
+invoke create-venv              # Create virtual environment
+invoke install-dependencies     # Install dependencies
+invoke run-tests                # Run Behave tests and generate Allure report
+invoke view-report              # View test report
+
+invoke setup-and-run            # Run all steps in sequence

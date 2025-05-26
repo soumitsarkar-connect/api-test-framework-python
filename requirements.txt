@@ -1,0 +1,8 @@
+behave
+requests
+python-dotenv
+emoji
+colorama
+invoke
+allure-behave
+jsonschema
